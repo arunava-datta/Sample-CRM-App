@@ -1,0 +1,13 @@
+{
+    "name": "Sample CRM App",
+    "version": "1.0.0",
+    "description": "A Sample CRM for Hackathon",
+    "author": "bittu.565@gmail.com",
+    "dependencies": {
+        "body-parser": "^1.15.1",
+        "express": "^4.13.4"
+    },
+    "engines": {
+        "node": ">=0.12.0"
+    }
+}
